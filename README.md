@@ -1,1 +1,5 @@
-# odin-recipes
+# odin-recipes 
+This will be the end of my the HTML Course from "The Odin Project". 
+It will represent everything that i learned since i started my Coding Journey. 
+
+What i learned:
